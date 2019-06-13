@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+settings.py
 
 # C extensions
 *.so
@@ -105,3 +106,13 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.idea/LearningDjango.iml
+.idea/dataSources.local.xml
+.idea/dataSources/
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Test_App/migrations/0001_initial.py
+templates/
