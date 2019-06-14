@@ -13,6 +13,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="Test_App.views.*" />
+          <option value="django_heroku" />
         </list>
       </option>
     </inspection_tool>
