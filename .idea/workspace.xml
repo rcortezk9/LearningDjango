@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b962fc61-49b8-4e6f-b923-bb2a6cee21d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b962fc61-49b8-4e6f-b923-bb2a6cee21d8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LearningDjango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1418">
+            <state relative-caret-position="378">
               <caret line="121" selection-start-line="121" selection-end-line="121" />
             </state>
           </provider>
@@ -255,7 +253,7 @@
       <workItem from="1557705700528" duration="78000" />
       <workItem from="1557708268694" duration="23000" />
       <workItem from="1560394803821" duration="14000" />
-      <workItem from="1560396268819" duration="4203000" />
+      <workItem from="1560396268819" duration="4468000" />
     </task>
     <task id="LOCAL-00001" summary="Created Django project.&#10;Created app&#10;Installed Rest Framework.">
       <created>1549940620909</created>
@@ -306,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560472018271</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Change version on python">
+      <created>1560472319839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560472319839</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15832000" />
+    <option name="totallyTimeSpent" value="16097000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,7 +345,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" weight="0.328877" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50121063" side_tool="true" weight="0.328877" />
       <window_info anchor="bottom" id="manage.py@LearningDjango" order="11" sideWeight="0.49878934" weight="0.328877" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49959645" visible="true" weight="0.29430053" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49959645" visible="true" weight="0.4507772" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.23316061" />
       <window_info anchor="bottom" id="Database Console" order="14" weight="0.328877" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -361,7 +366,8 @@
     <MESSAGE value="Refractor directory name" />
     <MESSAGE value="Complete the data base connection" />
     <MESSAGE value="Deploying to heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploying to heroku" />
+    <MESSAGE value="Change version on python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change version on python" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/db/models/base.py">
@@ -531,13 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearningDjango/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1418">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -565,7 +564,14 @@
     <entry file="file://$PROJECT_DIR$/runtime.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningDjango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
